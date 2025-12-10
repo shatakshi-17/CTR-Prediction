@@ -1,1 +1,3 @@
-# CTR-Prediction-w-neural-recommendation
+# CTR-Prediction
+CTR Prediction with neural recommendation system
+
